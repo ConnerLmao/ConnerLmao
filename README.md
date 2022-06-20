@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ConnerLmao
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning Speedrunning Multiple Games
-- 💞️ I’m looking to collaborate on the FREE Freedom Phone
 - 📫 How to reach me connerpog@gmail.com
 
 <!---
